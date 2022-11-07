@@ -1,0 +1,74 @@
+* {
+    font-family: 'Nunito', sans-serif;
+
+}
+
+input {
+    width: 50px;
+    height: 35px;
+    text-align: Center;
+    padding: 10px 0 10px 12px;
+    border-radius: 7px;
+    border: 1.3px solid black;
+    border-color: rgb(79, 77, 77);
+}
+
+select {
+    height: 35px;
+    width: 60px;
+    text-align: Center;
+    margin-left: 10px;
+    border: 1.3px solid black;
+    border-radius: 5px;
+    border-color: rgb(79, 77, 77);
+}
+
+.table-header {
+    background-color: rgb(24, 24, 82);
+    color: white;
+}
+
+/* .total-indicator {
+    text-align: right;
+} */
+
+.Representation,
+.totalHours {
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.calculate,
+.clearall {
+    border-radius: 2px;
+    padding: 10px 15px;
+}
+
+.threecol {
+    font-weight: 100;
+    font-size: smaller;
+}
+
+.content {
+    margin: 2% 10% 3% 10%;
+}
+
+.main {
+    margin-bottom: 30px;
+    box-shadow: 2px 5px 30px rgb(100, 100, 100);
+}
+
+button {
+    background-color: #dad8d8;
+    border-radius: 1px;
+    border: none;
+    box-shadow: 1px 1px 5px rgb(100, 100, 100);
+    margin-right: 10px;
+    padding: 0 15px;
+
+}
+
+h1 {
+    margin-left: 3%;
+    color: rgb(69, 69, 69);
+}
